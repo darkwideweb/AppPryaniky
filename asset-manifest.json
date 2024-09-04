@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/AppPryaniky/static/js/main.bdc3e89b.js",
+    "static/js/239.2b17afd9.chunk.js": "/AppPryaniky/static/js/239.2b17afd9.chunk.js",
+    "static/js/213.9873d119.chunk.js": "/AppPryaniky/static/js/213.9873d119.chunk.js",
+    "static/js/553.535b2635.chunk.js": "/AppPryaniky/static/js/553.535b2635.chunk.js",
+    "index.html": "/AppPryaniky/index.html",
+    "main.bdc3e89b.js.map": "/AppPryaniky/static/js/main.bdc3e89b.js.map",
+    "239.2b17afd9.chunk.js.map": "/AppPryaniky/static/js/239.2b17afd9.chunk.js.map",
+    "213.9873d119.chunk.js.map": "/AppPryaniky/static/js/213.9873d119.chunk.js.map",
+    "553.535b2635.chunk.js.map": "/AppPryaniky/static/js/553.535b2635.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bdc3e89b.js"
+  ]
+}
